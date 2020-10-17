@@ -1,0 +1,2 @@
+* Programming Algorithms in Lisp
+- This is the set of exercises and code from the book programming algorithms in lisp
