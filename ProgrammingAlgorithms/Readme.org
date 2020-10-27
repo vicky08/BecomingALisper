@@ -2,3 +2,8 @@
 - This is the set of exercises and code from the book programming algorithms in lisp
 - This uses rutils which is an extension and a 3rd party lib.
   - [[https://github.com/vseloved/rutils/blob/master/docs/tutorial.md][rutils/tutorial.md at master · vseloved/rutils]]
+   #+BEGIN_SRC common-lisp
+      (ql:quickload :rutils)
+      (in-package :rtl-user)
+   #+END_SRC
+ 
